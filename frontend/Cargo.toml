@@ -1,0 +1,30 @@
+[package]
+name = "enterprise_suite_ui"
+version = "0.3.0"
+edition = "2021"
+description = "Yew + Stylist web frontend for the Enterprise Suite (CRM, projects, GRC, assets, QMS, EHS, documents, finance, HR, risk, supply chain)"
+
+# Standalone workspace: the backend workspace excludes `frontend/` so `cargo build` of the server never pulls in wasm crates.
+[workspace]
+
+[dependencies]
+yew = { version = "0.21", features = ["csr"] }
+yew-router = "0.18"
+stylist = { version = "0.13", features = ["yew", "yew_integration", "parser"] }
+gloo-net = { version = "0.6", default-features = false, features = ["http", "json"] }
+gloo-storage = "0.3"
+wasm-bindgen = "0.2"
+wasm-bindgen-futures = "0.4"
+js-sys = "0.3"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+web-sys = { version = "0.3", features = [
+  "Window", "Document", "Element", "HtmlElement", "HtmlInputElement", "HtmlSelectElement", "File", "FileList",
+  "HtmlTextAreaElement", "Location", "Blob", "BlobPropertyBag", "Url", "HtmlAnchorElement",
+] }
+
+[profile.release]
+opt-level = "s"
+lto = true
+codegen-units = 1
+panic = "abort"

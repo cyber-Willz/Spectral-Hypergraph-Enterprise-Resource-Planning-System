@@ -1,0 +1,7 @@
+[build]
+target = "index.html"
+dist = "dist"
+
+# `trunk serve` forwards API calls to the Axum backend (cargo run --release in the repo root).
+[[proxy]]
+backend = "http://127.0.0.1:8080/api/"

@@ -1,0 +1,101 @@
+OrderID,CustomerName,SalesRep,ProductLine,DealSize,OrderDate,Stage,Status,Probability,Forecasted Revenue,Won Revenue,Lost Revenue
+1001,Delta LLC,Maria,Furniture,6154,2024-01-01,Lead,Open,0.1,615.4,0,0
+1002,Omega PLC,Chioma,Furniture,9499,2024-01-02,Lead,Open,0.1,949.9,0,0
+1003,Gamma Ltd,Chioma,Office Supplies,11295,2024-01-03,Opportunity,Open,0.6,6777.0,0,0
+1004,Omega PLC,Chioma,Furniture,17183,2024-01-04,MQL,Open,0.2,3436.6,0,0
+1005,Omega PLC,Chioma,Software,34299,2024-01-05,Lead,Open,0.1,3429.9,0,0
+1006,Beta Inc,John,Electronics,17874,2024-01-06,SQL,Open,0.4,7149.6,0,0
+1007,Gamma Ltd,Sarah,Office Supplies,37711,2024-01-07,Lead,Open,0.1,3771.1,0,0
+1008,Gamma Ltd,Sarah,Electronics,10539,2024-01-08,Closed Won,Closed Won,1,10539.0,10539,0
+1009,Gamma Ltd,Chioma,Electronics,47405,2024-01-09,Lead,Open,0.1,4740.5,0,0
+1010,Omega PLC,Sarah,Software,7557,2024-01-10,Opportunity,Open,0.6,4534.2,0,0
+1011,Delta LLC,Sarah,Furniture,43360,2024-01-11,SQL,Open,0.4,17344.0,0,0
+1012,Gamma Ltd,Chioma,Furniture,21482,2024-01-12,Opportunity,Open,0.6,12889.2,0,0
+1013,Zeta Ltd,Sarah,Electronics,7200,2024-01-13,SQL,Open,0.4,2880.0,0,0
+1014,Omega PLC,Maria,Office Supplies,7961,2024-01-14,MQL,Open,0.2,1592.2,0,0
+1015,Beta Inc,David,Furniture,26357,2024-01-15,Closed Lost,Closed Lost,0,0.0,0,26357
+1016,Delta LLC,David,Office Supplies,16969,2024-01-16,Closed Won,Closed Won,1,16969.0,16969,0
+1017,Zeta Ltd,Chioma,Furniture,7869,2024-01-17,Closed Won,Closed Won,1,7869.0,7869,0
+1018,Zeta Ltd,John,Office Supplies,33643,2024-01-18,MQL,Open,0.2,6728.6,0,0
+1019,Beta Inc,Chioma,Software,29736,2024-01-19,Lead,Open,0.1,2973.6,0,0
+1020,Delta LLC,John,Office Supplies,43467,2024-01-20,SQL,Open,0.4,17386.8,0,0
+1021,Omega PLC,David,Software,28328,2024-01-21,Opportunity,Open,0.6,16996.8,0,0
+1022,Alpha Corp,Chioma,Software,30876,2024-01-22,SQL,Open,0.4,12350.4,0,0
+1023,Delta LLC,Maria,Office Supplies,26295,2024-01-23,Closed Won,Closed Won,1,26295.0,26295,0
+1024,Beta Inc,Sarah,Software,8987,2024-01-24,MQL,Open,0.2,1797.4,0,0
+1025,Zeta Ltd,John,Electronics,27399,2024-01-25,Closed Lost,Closed Lost,0,0.0,0,27399
+1026,Omega PLC,Sarah,Software,38986,2024-01-26,SQL,Open,0.4,15594.4,0,0
+1027,Delta LLC,Sarah,Furniture,25880,2024-01-27,Closed Won,Closed Won,1,25880.0,25880,0
+1028,Alpha Corp,Chioma,Office Supplies,9735,2024-01-28,MQL,Open,0.2,1947.0,0,0
+1029,Alpha Corp,Sarah,Electronics,49064,2024-01-29,SQL,Open,0.4,19625.6,0,0
+1030,Gamma Ltd,Maria,Office Supplies,9555,2024-01-30,Opportunity,Open,0.6,5733.0,0,0
+1031,Gamma Ltd,Sarah,Furniture,46914,2024-01-31,Lead,Open,0.1,4691.4,0,0
+1032,Beta Inc,Chioma,Furniture,45818,2024-02-01,Lead,Open,0.1,4581.8,0,0
+1033,Delta LLC,Maria,Furniture,24830,2024-02-02,Closed Lost,Closed Lost,0,0.0,0,24830
+1034,Delta LLC,David,Software,22429,2024-02-03,Closed Won,Closed Won,1,22429.0,22429,0
+1035,Zeta Ltd,Sarah,Software,11893,2024-02-04,Lead,Open,0.1,1189.3,0,0
+1036,Zeta Ltd,Chioma,Office Supplies,19373,2024-02-05,SQL,Open,0.4,7749.2,0,0
+1037,Zeta Ltd,David,Office Supplies,8436,2024-02-06,SQL,Open,0.4,3374.4,0,0
+1038,Gamma Ltd,David,Electronics,13754,2024-02-07,Closed Won,Closed Won,1,13754.0,13754,0
+1039,Delta LLC,John,Electronics,15677,2024-02-08,MQL,Open,0.2,3135.4,0,0
+1040,Delta LLC,Maria,Office Supplies,10895,2024-02-09,MQL,Open,0.2,2179.0,0,0
+1041,Alpha Corp,Sarah,Software,24738,2024-02-10,Lead,Open,0.1,2473.8,0,0
+1042,Gamma Ltd,Chioma,Furniture,35746,2024-02-11,SQL,Open,0.4,14298.4,0,0
+1043,Omega PLC,John,Office Supplies,37352,2024-02-12,Opportunity,Open,0.6,22411.2,0,0
+1044,Gamma Ltd,Maria,Electronics,44790,2024-02-13,Lead,Open,0.1,4479.0,0,0
+1045,Omega PLC,John,Software,46919,2024-02-14,Closed Lost,Closed Lost,0,0.0,0,46919
+1046,Alpha Corp,Maria,Office Supplies,10600,2024-02-15,SQL,Open,0.4,4240.0,0,0
+1047,Beta Inc,Maria,Office Supplies,34124,2024-02-16,MQL,Open,0.2,6824.8,0,0
+1048,Delta LLC,Sarah,Software,32643,2024-02-17,Lead,Open,0.1,3264.3,0,0
+1049,Alpha Corp,Maria,Office Supplies,45764,2024-02-18,MQL,Open,0.2,9152.8,0,0
+1050,Delta LLC,John,Software,14007,2024-02-19,Closed Lost,Closed Lost,0,0.0,0,14007
+1051,Zeta Ltd,Maria,Furniture,42410,2024-02-20,Opportunity,Open,0.6,25446.0,0,0
+1052,Beta Inc,Sarah,Software,49080,2024-02-21,Opportunity,Open,0.6,29448.0,0,0
+1053,Beta Inc,Sarah,Software,45447,2024-02-22,Opportunity,Open,0.6,27268.2,0,0
+1054,Alpha Corp,John,Software,13208,2024-02-23,SQL,Open,0.4,5283.2,0,0
+1055,Beta Inc,David,Office Supplies,23589,2024-02-24,Closed Won,Closed Won,1,23589.0,23589,0
+1056,Omega PLC,David,Office Supplies,48484,2024-02-25,Lead,Open,0.1,4848.4,0,0
+1057,Beta Inc,Maria,Software,22453,2024-02-26,Opportunity,Open,0.6,13471.8,0,0
+1058,Delta LLC,Chioma,Office Supplies,41212,2024-02-27,MQL,Open,0.2,8242.4,0,0
+1059,Delta LLC,Maria,Electronics,48525,2024-02-28,Lead,Open,0.1,4852.5,0,0
+1060,Delta LLC,John,Electronics,37635,2024-02-29,SQL,Open,0.4,15054.0,0,0
+1061,Delta LLC,John,Office Supplies,38828,2024-03-01,Lead,Open,0.1,3882.8,0,0
+1062,Omega PLC,John,Office Supplies,23711,2024-03-02,Lead,Open,0.1,2371.1,0,0
+1063,Gamma Ltd,John,Software,8420,2024-03-03,SQL,Open,0.4,3368.0,0,0
+1064,Zeta Ltd,John,Furniture,36216,2024-03-04,Closed Lost,Closed Lost,0,0.0,0,36216
+1065,Alpha Corp,Sarah,Office Supplies,5301,2024-03-05,MQL,Open,0.2,1060.2,0,0
+1066,Delta LLC,David,Electronics,5699,2024-03-06,Lead,Open,0.1,569.9,0,0
+1067,Beta Inc,John,Software,5190,2024-03-07,Closed Won,Closed Won,1,5190.0,5190,0
+1068,Delta LLC,Chioma,Office Supplies,15492,2024-03-08,Closed Won,Closed Won,1,15492.0,15492,0
+1069,Beta Inc,Chioma,Electronics,40743,2024-03-09,SQL,Open,0.4,16297.2,0,0
+1070,Zeta Ltd,Chioma,Electronics,11102,2024-03-10,SQL,Open,0.4,4440.8,0,0
+1071,Zeta Ltd,Chioma,Furniture,24778,2024-03-11,Opportunity,Open,0.6,14866.8,0,0
+1072,Zeta Ltd,Sarah,Software,31641,2024-03-12,Lead,Open,0.1,3164.1,0,0
+1073,Beta Inc,Chioma,Software,39584,2024-03-13,Closed Lost,Closed Lost,0,0.0,0,39584
+1074,Delta LLC,John,Furniture,37745,2024-03-14,Closed Won,Closed Won,1,37745.0,37745,0
+1075,Zeta Ltd,Maria,Furniture,28093,2024-03-15,MQL,Open,0.2,5618.6,0,0
+1076,Omega PLC,Chioma,Software,5569,2024-03-16,Lead,Open,0.1,556.9,0,0
+1077,Beta Inc,Sarah,Software,43210,2024-03-17,Closed Lost,Closed Lost,0,0.0,0,43210
+1078,Beta Inc,Sarah,Office Supplies,39663,2024-03-18,Opportunity,Open,0.6,23797.8,0,0
+1079,Delta LLC,Chioma,Office Supplies,41631,2024-03-19,Opportunity,Open,0.6,24978.6,0,0
+1080,Beta Inc,Maria,Furniture,12455,2024-03-20,Opportunity,Open,0.6,7473.0,0,0
+1081,Beta Inc,Chioma,Office Supplies,9014,2024-03-21,Opportunity,Open,0.6,5408.4,0,0
+1082,Zeta Ltd,Sarah,Electronics,16093,2024-03-22,Closed Lost,Closed Lost,0,0.0,0,16093
+1083,Delta LLC,David,Office Supplies,23070,2024-03-23,Closed Lost,Closed Lost,0,0.0,0,23070
+1084,Zeta Ltd,John,Office Supplies,40777,2024-03-24,Closed Won,Closed Won,1,40777.0,40777,0
+1085,Zeta Ltd,Sarah,Electronics,21538,2024-03-25,Opportunity,Open,0.6,12922.8,0,0
+1086,Delta LLC,Chioma,Furniture,15729,2024-03-26,Closed Won,Closed Won,1,15729.0,15729,0
+1087,Alpha Corp,John,Electronics,39177,2024-03-27,Opportunity,Open,0.6,23506.2,0,0
+1088,Zeta Ltd,Chioma,Office Supplies,5784,2024-03-28,Opportunity,Open,0.6,3470.4,0,0
+1089,Omega PLC,Chioma,Furniture,32751,2024-03-29,Lead,Open,0.1,3275.1,0,0
+1090,Omega PLC,David,Office Supplies,45864,2024-03-30,Closed Won,Closed Won,1,45864.0,45864,0
+1091,Beta Inc,John,Electronics,45328,2024-03-31,Closed Won,Closed Won,1,45328.0,45328,0
+1092,Omega PLC,John,Electronics,17533,2024-04-01,Opportunity,Open,0.6,10519.8,0,0
+1093,Beta Inc,David,Office Supplies,45111,2024-04-02,Closed Won,Closed Won,1,45111.0,45111,0
+1094,Alpha Corp,Sarah,Software,44974,2024-04-03,Opportunity,Open,0.6,26984.4,0,0
+1095,Delta LLC,Chioma,Software,10801,2024-04-04,MQL,Open,0.2,2160.2,0,0
+1096,Delta LLC,Maria,Electronics,24190,2024-04-05,MQL,Open,0.2,4838.0,0,0
+1097,Delta LLC,Chioma,Electronics,43754,2024-04-06,MQL,Open,0.2,8750.8,0,0
+1098,Omega PLC,Chioma,Software,34592,2024-04-07,SQL,Open,0.4,13836.8,0,0
+1099,Alpha Corp,Sarah,Software,15647,2024-04-08,Lead,Open,0.1,1564.7,0,0
+1100,Omega PLC,Chioma,Office Supplies,13716,2024-04-09,Opportunity,Open,0.6,8229.6,0,0

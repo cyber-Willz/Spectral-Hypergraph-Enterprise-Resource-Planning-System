@@ -1,0 +1,501 @@
+customer_id,email,signup_date,gender,region,loyalty_tier
+C00001,shaneramirez@gmail.com,26-04-25,Male,Central,Silver
+C00002,jpeterson@bernard.com,11-08-24,Female,Central, gold 
+C00003,howardmaurice@yahoo.com,15-05-25,male,Central, gold 
+C00004,yherrera@arnold.org,14-06-25,FEMALE,Central,GOLD
+C00005,janetwilliams@gmail.com,02-05-25,Male,West,bronze
+C00006,wyattmichelle@yahoo.com,21-10-24,male,Central,bronze
+C00007,francisco53@hotmail.com,17-10-24,FEMALE,North, gold 
+C00008,amandasanchez@gray-mayo.net,29-09-24,male,Central, gold 
+C00009,perezantonio@yahoo.com,08-12-24,FEMALE,South,Silver
+C00010,clarksherri@hotmail.com,05-11-24,male,East,GOLD
+C00011,pfoster@thomas-taylor.net,31-01-25,Other,East,Silver
+C00012,zhurst@yahoo.com,29-09-24,femle,North,Silver
+C00013,ddavis@hernandez.biz,22-02-25,FEMALE,West, gold 
+C00014,djames@king.com,27-03-25,Other,Central, gold 
+C00015,daniel62@yahoo.com,07-07-24,femle,Central,bronze
+C00016,williamrodriguez@hotmail.com,29-10-24,Other,North,gld
+C00017,nathanielmartin@sellers.com,,Male,West,GOLD
+C00018,john39@gmail.com,08-08-24,Female,North,bronze
+C00019,spenceamanda@gmail.com,24-08-24,femle,East,GOLD
+C00020,josephbrennan@yahoo.com,26-09-24,FEMALE,East,GOLD
+C00021,raymond57@hayes.com,19-02-25,male,South,Silver
+C00022,adrianzimmerman@perez.com,02-08-24,Female,West,Silver
+C00023,elizabeth38@cummings.org,05-01-25,Male,East, gold 
+C00024,maguirre@davis.com,17-12-24,Female,West,Silver
+C00025,dshields@hotmail.com,16-03-25,femle,North,GOLD
+C00026,powellmatthew@wright.net,27-12-24,Female,North, gold 
+C00027,dwhite@baxter.info,15-05-25,male,North, gold 
+C00028,pearsonamber@novak.com,10-12-24,femle,North, gold 
+C00029,zlewis@gmail.com,07-09-24,male,North,Silver
+C00030,gallowayjoseph@yahoo.com,24-10-24,male,North, gold 
+C00031,smoore@gmail.com,28-07-24,femle,Central, gold 
+C00032,brian97@calhoun.net,06-08-24,FEMALE,East,GOLD
+C00033,larsonemma@powell.com,15-02-25,Other,North,GOLD
+C00034,barnesbrandy@stewart.com,06-10-24,femle,Central,GOLD
+C00035,panderson@yahoo.com,30-12-24,Other,South,Silver
+C00036,smithchristine@hotmail.com,13-08-24,male,West,bronze
+C00037,williamanderson@ibarra-suarez.com,24-10-24,femle,East,GOLD
+C00038,tbass@carr-archer.net,09-07-24,Female,East,GOLD
+C00039,mcmillandennis@gmail.com,16-06-25,Other,South,Silver
+C00040,josephjacobs@cooper.net,11-01-25,femle,East,GOLD
+C00041,davisrodney@yahoo.com,23-07-24,Male,North,bronze
+C00042,kellie42@ramos.com,04-08-24,Female,West,bronze
+C00043,davenportbrandi@jordan.com,24-11-24,FEMALE,East,Silver
+C00044,jason31@deleon-henson.biz,04-03-25,femle,Central, gold 
+C00045,michellecherry@keith.com,18-04-25,FEMALE,West,bronze
+C00046,vpham@gmail.com,17-10-24,Male,North,bronze
+C00047,reyesbenjamin@walker-velasquez.info,18-11-24,femle,West,bronze
+C00048,jeffreykeller@yahoo.com,10-11-24,femle,East, gold 
+C00049,rasmussenjoshua@hotmail.com,19-01-25,Male,South, gold 
+C00050,sheila14@gmail.com,16-02-25,femle,West,bronze
+C00051,rodriguezryan@hotmail.com,07-05-25,FEMALE,East,GOLD
+C00052,gobrien@gmail.com,02-12-24,Female,East,GOLD
+C00053,bradley60@frost.com,24-11-24,femle,North,GOLD
+C00054,rushsamantha@hotmail.com,04-11-24,femle,East,Silver
+C00055,william65@terry-spencer.com,16-12-24,Female,North,GOLD
+C00056,christinaturner@hotmail.com,25-05-25,male,South,bronze
+C00057,justin69@pena.com,20-01-25,male,Central,GOLD
+C00058,donnacampbell@hotmail.com,08-03-25,Male,West,GOLD
+C00059,cardenaskaren@hotmail.com,03-11-24,Female,West,bronze
+C00060,dylanwilliams@carr-mack.info,13-12-24,male,West, gold 
+C00061,psnyder@douglas.com,04-05-25,femle,North, gold 
+C00062,gregoryrubio@hotmail.com,02-01-25,male,West,GOLD
+C00063,samanthamartinez@solis.net,08-02-25,male,North, gold 
+C00064,usalazar@hotmail.com,18-12-24,femle,Central,GOLD
+C00065,juliawells@yahoo.com,23-04-25,male,North,GOLD
+C00066,katie87@allen.com,19-10-24,Other,South,GOLD
+C00067,patricia12@gmail.com,03-10-24,Other,Central,Silver
+C00068,jasminebrown@yahoo.com,11-11-24,femle,East,GOLD
+C00069,abrown@yahoo.com,22-06-25,femle,North,GOLD
+C00070,wwoods@molina-castaneda.biz,31-01-25,Male,Central,GOLD
+C00071,brobinson@johnson-rogers.biz,13-04-25,male,Central, gold 
+C00072,ncalhoun@johnson.com,07-08-24,FEMALE,East, gold 
+C00073,michellewhite@yahoo.com,30-11-24,femle,North,Silver
+C00074,shawnrogers@yahoo.com,22-10-24,male,North,bronze
+C00075,mary70@hotmail.com,31-01-25,Other,North, gold 
+C00076,jeffrey10@herring.com,04-03-25,femle,North,GOLD
+C00077,davidcaldwell@gould.com,09-09-24,femle,Central,GOLD
+C00078,tamirodriguez@hickman.biz,07-12-24,male,West,GOLD
+C00079,vargasmaria@garcia.org,14-05-25,FEMALE,North,bronze
+C00080,reedross@jones-holland.com,31-05-25,femle,North,bronze
+C00081,xgarcia@hotmail.com,17-06-25,FEMALE,Central, gold 
+C00082,ryangross@hotmail.com,18-10-24,femle,North, gold 
+C00083,ugraham@hotmail.com,18-10-24,femle,Central,Silver
+C00084,mariahmiller@yahoo.com,08-10-24,FEMALE,West,GOLD
+C00085,frogers@yahoo.com,14-09-24,male,South,GOLD
+C00086,michaelgreen@yahoo.com,12-06-25,Male,East,bronze
+C00087,blackjames@gmail.com,11-04-25,Female,North,bronze
+C00088,,06-01-25,male,West,bronze
+C00089,fmcguire@yahoo.com,30-09-24,male,West,Silver
+C00090,kevinperkins@yahoo.com,05-02-25,femle,East,
+C00091,jbarajas@yahoo.com,19-11-24,male,West,Silver
+C00092,kristopher31@hotmail.com,18-09-24,Male,East, gold 
+C00093,newtonstephanie@hotmail.com,15-09-24,Male,Central, gold 
+C00094,joannahill@bray.com,25-05-25,Female,Central,Silver
+C00095,jeremy24@erickson.com,23-07-24,male,,GOLD
+C00096,heidi27@salas.com,04-01-25,Other,South,GOLD
+C00097,dpeterson@yahoo.com,06-07-25,Female,East,Silver
+C00098,shortrichard@gmail.com,15-02-25,Female,East,GOLD
+C00099,edwardhart@miller-wright.net,28-04-25,FEMALE,South,GOLD
+C00100,kimberlyjames@yahoo.com,29-10-24,Male,South,GOLD
+C00101,ashley09@hotmail.com,13-08-24,Male,West,bronze
+C00102,josephmiller@thompson.com,07-07-24,Male,East,bronze
+C00103,enorris@yahoo.com,18-07-24,Male,Central,GOLD
+C00104,jasmine71@hall.org,19-03-25,FEMALE,West,Silver
+C00105,owilson@hernandez.com,08-09-24,Male,West, gold 
+C00106,scott74@hotmail.com,09-12-24,Female,East, gold 
+C00107,mkim@gmail.com,16-06-25,femle,North,Silver
+C00108,cassandra01@gmail.com,24-03-25,FEMALE,West,bronze
+C00109,barbara27@pearson.org,22-12-24,Other,East,bronze
+C00110,harrisonricky@yahoo.com,23-03-25,FEMALE,South,GOLD
+C00111,marksteele@bates-morales.net,20-07-24,Other,East,Silver
+C00112,edwardsmarcus@yahoo.com,06-06-25,male,North,bronze
+C00113,mgutierrez@cox.com,23-09-24,femle,North,GOLD
+C00114,sarakim@hotmail.com,10-01-25,male,North,bronze
+C00115,dudleychelsea@mckinney.net,11-07-24,Male,South,bronze
+C00116,walkermaureen@gmail.com,01-01-25,Female,East,Silver
+C00117,tyronemoran@thornton.info,08-10-24,FEMALE,North,Silver
+C00118,patrickweeks@hotmail.com,21-04-25,Male,East,Silver
+C00119,hillkristy@morgan-french.com,20-05-25,femle,South,Silver
+C00120,jessica99@burns.com,12-11-24,FEMALE,West,GOLD
+C00121,mcantu@hotmail.com,06-10-24,FEMALE,West,GOLD
+C00122,melissajenkins@yahoo.com,21-04-25,FEMALE,Central,GOLD
+C00123,qhughes@hotmail.com,03-09-24,FEMALE,Central, gold 
+C00124,martineztammy@yahoo.com,08-06-25,Female,North,GOLD
+C00125,dgarcia@bowen.com,04-08-24,Female,South,GOLD
+C00126,matthew61@yahoo.com,02-06-25,FEMALE,West,Silver
+C00127,courtney78@gmail.com,02-03-25,femle,East,Silver
+C00128,crystalmccall@francis.com,27-04-25,Male,East,Silver
+C00129,tjackson@williams.com,22-11-24,femle,West,GOLD
+C00130,hthomas@yahoo.com,10-02-25,FEMALE,South,GOLD
+C00131,gregorylynch@harvey-allen.org,30-08-24,male,Central,GOLD
+C00132,dlittle@estrada-nolan.info,20-06-25,FEMALE,South,bronze
+C00133,charleslandry@hotmail.com,30-10-24,Female,Central,bronze
+C00134,stephen43@yahoo.com,02-06-25,male,South,GOLD
+C00135,youngashley@hotmail.com,28-10-24,Male,East,Silver
+C00136,spencedominique@yahoo.com,09-07-24,Male,Central, gold 
+C00137,swall@lawson.com,10-03-25,femle,North,bronze
+C00138,erica21@lucas.org,24-11-24,FEMALE,East,GOLD
+C00139,browningmark@thompson-anderson.net,11-06-25,Other,Central,bronze
+C00140,maria47@yahoo.com,21-04-25,FEMALE,South,Silver
+C00141,mcdonaldcharles@gmail.com,05-06-25,FEMALE,Central,GOLD
+C00142,christopher60@yahoo.com,30-01-25,Other,East,bronze
+C00143,vrichardson@baker.com,17-08-24,Other,Central, gold 
+C00144,jjohnson@herman-walker.com,09-03-25,FEMALE,East, gold 
+C00145,debra12@gmail.com,20-07-24,male,Central,brnze
+C00146,pwilson@hotmail.com,27-08-24,FEMALE,East,Silver
+C00147,vwatson@hotmail.com,31-01-25,male,East,GOLD
+C00148,,02-03-25,Male,West,GOLD
+C00149,antonio53@yahoo.com,25-12-24,male,East, gold 
+C00150,cory58@howard.com,31-05-25,FEMALE,West,bronze
+C00151,batesdarlene@hotmail.com,14-07-24,femle,Central, gold 
+C00152,john29@jones.com,18-02-25,Other,North,Silver
+C00153,markhernandez@smith.com,31-01-25,Male,West, gold 
+C00154,danieldelacruz@gmail.com,11-07-24,Other,East,bronze
+C00155,briannasmith@yahoo.com,26-07-24,Male,South,GOLD
+C00156,vfox@alvarez.net,21-02-25,femle,South,bronze
+C00157,ngordon@acosta.net,31-10-24,FEMALE,South,Silver
+C00158,browntimothy@yahoo.com,18-12-24,Other,East,bronze
+C00159,cjoseph@lam.org,01-09-24,male,West,bronze
+C00160,joshuaschultz@joseph.com,29-12-24,Other,Central, gold 
+C00161,mcguiredanny@hotmail.com,15-03-25,Other,West,Silver
+C00162,ohayes@morgan-chavez.biz,15-04-25,Female,West,Silver
+C00163,ronald45@mcdaniel.com,10-08-24,Female,,Silver
+C00164,reynoldsjulie@cain-hawkins.org,09-02-25,Male,Central, gold 
+C00165,jenkinsmorgan@yahoo.com,08-06-25,male,Central, gold 
+C00166,caroline51@romero.com,18-11-24,FEMALE,North,GOLD
+C00167,farmeraudrey@yahoo.com,30-05-25,FEMALE,Central, gold 
+C00168,anthony44@bell-white.com,10-02-25,Female,South,bronze
+C00169,thomascynthia@gmail.com,10-08-24,Female,East, gold 
+C00170,vbarnes@wood.com,03-05-25,Male,West, gold 
+C00171,moorekaren@craig.info,20-03-25,Male,Central,Silver
+C00172,alawson@yahoo.com,27-09-24,FEMALE,East,bronze
+C00173,russell49@rose-parker.com,06-12-24,FEMALE,West,GOLD
+C00174,harrissierra@duran.com,21-08-24,Other,South,bronze
+C00175,lburgess@james.com,16-01-25,male,North,bronze
+C00176,sandersjudy@yahoo.com,13-07-24,Other,South,bronze
+C00177,atkinsbarbara@hotmail.com,10-12-24,FEMALE,West,GOLD
+C00178,darius05@gmail.com,13-05-25,FEMALE,North,Silver
+C00179,christopher13@yahoo.com,19-02-25,femle,South,GOLD
+C00180,fosterkyle@yahoo.com,30-09-24,Other,West,GOLD
+C00181,charlesschultz@hotmail.com,20-01-25,Other,South,bronze
+C00182,michael23@thomas.com,24-02-25,Other,South,GOLD
+C00183,thompsonkendra@marshall-elliott.org,27-12-24,FEMALE,South, gold 
+C00184,edward17@yahoo.com,08-03-25,femle,North,Silver
+C00185,brittany58@gmail.com,03-11-24,male,East,Silver
+C00186,xjohnson@yahoo.com,04-08-24,FEMALE,North,Silver
+C00187,jford@huang.com,07-11-24,femle,Central,GOLD
+C00188,susanhayes@yahoo.com,09-04-25,Female,East,GOLD
+C00189,benjaminzimmerman@warren-bishop.com,27-11-24,male,North,bronze
+C00190,vortiz@hotmail.com,23-02-25,Male,Central,GOLD
+C00191,cameron18@hughes.org,10-06-25,Other,East,Silver
+C00192,christopher25@ponce-hale.biz,25-08-24,femle,West, gold 
+C00193,angelica52@warner.net,11-08-24,femle,South,GOLD
+C00194,andrew42@gmail.com,15-11-24,FEMALE,Central, gold 
+C00195,jeremytaylor@gmail.com,28-10-24,femle,Central,Silver
+C00196,stanleynancy@anderson.org,16-05-25,FEMALE,South,GOLD
+C00197,xwilliams@ball.info,04-10-24,Other,West,GOLD
+C00198,tammy73@gregory-hudson.info,01-01-25,male,West, gold 
+C00199,ashaw@gmail.com,19-05-25,Female,East, gold 
+C00200,moniquewilliams@sawyer-spencer.com,08-04-25,male,East,bronze
+C00201,christopher24@whitehead-hernandez.biz,10-08-24,FEMALE,East, gold 
+C00202,bwilkerson@brown-shaw.com,02-12-24,Female,Central,bronze
+C00203,jeffrey51@santos.com,27-06-25,Female,West,GOLD
+C00204,katherineharrison@hotmail.com,08-07-24,FEMALE,South,Silver
+C00205,scottmary@bentley.com,06-10-24,femle,East,Silver
+C00206,williamsrobert@hotmail.com,30-12-24,Other,East,GOLD
+C00207,copelandvincent@smith.com,27-10-24,femle,Central,GOLD
+C00208,mendezjohn@yahoo.com,16-09-24,FEMALE,East,Silver
+C00209,carlos88@hartman.info,22-07-24,Male,North,Silver
+C00210,jon05@gmail.com,16-11-24,femle,North,Silver
+C00211,ingramjill@anderson-bell.com,17-05-25,male,North,Silver
+C00212,epollard@white.info,20-07-24,male,West, gold 
+C00213,bradleygonzalez@gmail.com,05-11-24,FEMALE,South,bronze
+C00214,ihays@yahoo.com,12-10-24,Other,East, gold 
+C00215,justinatkins@glenn.com,23-08-24,Male,North, gold 
+C00216,vpreston@yahoo.com,18-06-25,Male,South,bronze
+C00217,terri77@yahoo.com,29-06-25,FEMALE,South,bronze
+C00218,acostachristian@hotmail.com,21-05-25,femle,West,bronze
+C00219,manuel15@phillips.com,30-03-25,femle,South,Silver
+C00220,sergio59@yahoo.com,20-10-24,femle,East,GOLD
+C00221,lambertrichard@owen.com,31-05-25,Female,West,Silver
+C00222,martinezjoel@hotmail.com,25-11-24,Female,East,Silver
+C00223,cherring@hotmail.com,03-09-24,Female,South,GOLD
+C00224,nathan19@gmail.com,27-01-25,Female,West, gold 
+C00225,redwards@gmail.com,19-08-24,femle,South,GOLD
+C00226,victorhughes@wilson.com,,Male,East, gold 
+C00227,igonzalez@gmail.com,28-12-24,Male,East,bronze
+C00228,zosborn@ponce.com,04-02-25,Male,North,Silver
+C00229,melissa25@hotmail.com,01-10-24,femle,South,bronze
+C00230,laurayoung@johnson-spencer.com,03-01-25,Other,South,bronze
+C00231,jonesraymond@higgins.org,03-08-24,male,Central,Silver
+C00232,dawn77@holmes.net,11-03-25,Male,Central,GOLD
+C00233,ryanbartlett@guerra.com,01-11-24,Other,Central,Silver
+C00234,marcusfletcher@meza-stone.com,30-05-25,Other,Central,GOLD
+C00235,james84@weber.net,11-08-24,Other,South,Silver
+C00236,georgeweber@morgan.com,06-08-24,Other,North,GOLD
+C00237,debra96@fowler.com,12-03-25,Female,South,bronze
+C00238,zsanchez@hotmail.com,10-12-24,male,South,Silver
+C00239,djones@gmail.com,23-12-24,Female,South,bronze
+C00240,vmarshall@hotmail.com,30-08-24,Female,North,Silver
+C00241,jessica56@gmail.com,27-04-25,femle,West,GOLD
+C00242,floressteven@yahoo.com,27-12-24,femle,West,bronze
+C00243,colinroberts@lin-barnes.com,17-05-25,Other,West,Silver
+C00244,james27@hotmail.com,03-01-25,male,West,bronze
+C00245,tyler16@hotmail.com,30-12-24,Male,North,GOLD
+C00246,brandywilliams@simpson-khan.info,24-10-24,male,South,GOLD
+C00247,jordannicole@diaz.com,12-02-25,Female,East,Silver
+C00248,angela16@cole.org,27-03-25,Female,West,GOLD
+C00249,theresalong@grant-diaz.com,21-09-24,Male,South,GOLD
+C00250,williamsderrick@yahoo.com,14-05-25,Female,West, gold 
+C00251,ghernandez@gmail.com,10-11-24,Male,North,GOLD
+C00252,phillipjensen@yahoo.com,21-02-25,,North,bronze
+C00253,terickson@yahoo.com,18-05-25,male,East, gold 
+,mark16@parker.com,22-02-25,femle,South,bronze
+C00255,tammy99@gmail.com,12-04-25,Female,North, gold 
+C00256,ojackson@harvey.com,18-07-24,FEMALE,East, gold 
+C00257,andrewedwards@gutierrez.biz,16-01-25,FEMALE,South, gold 
+C00258,thorntonapril@hotmail.com,09-11-24,femle,East,bronze
+C00259,ledwards@yahoo.com,25-06-25,femle,West,GOLD
+C00260,erica49@yahoo.com,18-09-24,Other,East,Silver
+C00261,angela34@bush-vaughn.info,06-11-24,femle,Central, gold 
+C00262,ann44@gmail.com,13-02-25,FEMALE,South, gold 
+C00263,xcardenas@gmail.com,26-10-24,male,Central,GOLD
+C00264,stephanie15@douglas-burgess.com,22-09-24,femle,Central,bronze
+C00265,derrick99@gmail.com,08-10-24,male,West, gold 
+C00266,danawilliams@rivera-kennedy.com,08-07-24,Male,South,Silver
+C00267,edelgado@santos-avila.com,07-11-24,male,West,bronze
+C00268,velezchristopher@hotmail.com,04-10-24,male,East,Silver
+C00269,robertmonroe@osborn.info,16-09-24,Male,Central, gold 
+C00270,smithashley@gmail.com,01-07-25,Male,North,Silver
+C00271,shawn88@yahoo.com,16-06-25,Female,West,Silver
+C00272,znelson@rivera.info,14-03-25,Female,South,Silver
+C00273,alexisrogers@yahoo.com,11-02-25,male,Central,GOLD
+C00274,cherylfowler@wilcox-robertson.com,08-12-24,femle,South,GOLD
+C00275,tinawoods@smith.com,26-12-24,Other,West,GOLD
+C00276,kevin90@yahoo.com,16-03-25,FEMALE,West, gold 
+C00277,bryanwilson@yahoo.com,06-09-24,Female,South, gold 
+C00278,hannah45@hotmail.com,29-09-24,FEMALE,Central,bronze
+C00279,timothygibson@brooks.net,13-05-25,Other,West, gold 
+C00280,erinlarson@fox.com,05-08-24,male,Central, gold 
+C00281,poolerebecca@armstrong.com,10-11-24,Other,East,bronze
+C00282,frazierjennifer@yahoo.com,10-08-24,male,West,bronze
+C00283,chavezwilliam@yahoo.com,10-02-25,FEMALE,East,GOLD
+C00284,tchambers@johnson.com,15-02-25,Male,East,GOLD
+C00285,hendersonisabella@mcknight.info,18-07-24,Male,Central,bronze
+C00286,iwhite@hotmail.com,15-04-25,femle,South,bronze
+C00287,victoria67@yahoo.com,28-11-24,femle,South, gold 
+C00288,desireebailey@haney.net,24-08-24,Other,North,bronze
+C00289,avilatiffany@nunez-stephens.net,30-11-24,Female,West,GOLD
+C00290,stevenmoore@pineda.com,18-07-24,Male,South,GOLD
+C00291,allencarlos@hotmail.com,19-07-24,Other,East, gold 
+C00292,sanchezbradley@yahoo.com,05-10-24,FEMALE,Central, gold 
+C00293,taylorvictoria@cabrera.org,06-11-24,femle,South,Silver
+C00294,kevinthomas@hotmail.com,24-01-25,male,West,GOLD
+C00295,dturner@fry.biz,06-02-25,Other,North,bronze
+C00296,comptonshelly@hotmail.com,01-12-24,male,East, gold 
+C00297,trussell@yahoo.com,15-09-24,Other,South,Silver
+C00298,melissaturner@hotmail.com,31-08-24,FEMALE,East,bronze
+C00299,harttammy@hotmail.com,27-01-25,,Central,Silver
+C00300,nsanchez@lucas-nielsen.com,10-08-24,Female,East,bronze
+C00301,adamsemily@williams.org,13-04-25,FEMALE,Central,GOLD
+C00302,vclark@krueger-smith.com,19-04-25,Male,South,Silver
+C00303,srocha@padilla.com,03-05-25,Other,Central,bronze
+C00304,,02-11-24,Male,East,GOLD
+C00305,william77@gmail.com,13-05-25,Male,Central,Silver
+C00306,robin55@yahoo.com,23-07-24,femle,Central, gold 
+C00307,allentran@riley.com,03-10-24,Male,South,bronze
+C00308,victorpena@hotmail.com,14-11-24,Other,East,bronze
+C00309,plevy@hotmail.com,12-01-25,Other,South,bronze
+C00310,jessicabell@gmail.com,11-04-25,FEMALE,West,GOLD
+C00311,sabrinaweaver@hotmail.com,28-07-24,Male,North,GOLD
+C00312,landryelizabeth@gutierrez.com,01-08-24,Other,North, gold 
+C00313,robinsonstephen@williamson.org,25-06-25,Male,East,bronze
+C00314,ismith@hotmail.com,12-12-24,Female,South,GOLD
+C00315,morenojoshua@smith-li.biz,15-05-25,Other,South, gold 
+C00316,hullalice@lee.com,18-05-25,FEMALE,South,GOLD
+C00317,laura15@yahoo.com,31-12-24,femle,South,GOLD
+C00318,kevinclayton@valdez.com,11-08-24,femle,West,GOLD
+C00319,ebennett@gmail.com,10-03-25,Male,West, gold 
+C00320,christopherbruce@mueller.com,18-06-25,Female,Central,bronze
+C00321,jasonparrish@alvarez.com,20-06-25,Male,West,Silver
+C00322,sarahedwards@matthews.biz,01-07-25,Male,South,GOLD
+C00323,francisco39@rhodes-fernandez.biz,25-04-25,Other,South,bronze
+C00324,masonterri@davis.com,15-11-24,Female,Central, gold 
+C00325,anthony47@yahoo.com,02-10-24,Male,West,bronze
+C00326,rreynolds@hotmail.com,19-03-25,Female,East,GOLD
+C00327,bartonkenneth@gmail.com,08-04-25,male,East,bronze
+C00328,adamsnorman@moore.com,08-07-24,Female,Central, gold 
+C00329,rward@gmail.com,26-08-24,femle,South,GOLD
+C00330,ryanhawkins@russell.com,22-02-25,Other,West,bronze
+C00331,asmith@yahoo.com,04-05-25,femle,West,GOLD
+C00332,ashleyjackson@jackson-adams.com,13-01-25,male,East,Silver
+C00333,jacksonjoshua@washington-jones.com,09-10-24,Female,South,bronze
+C00334,stephentaylor@gmail.com,06-12-24,Female,South,GOLD
+C00335,vbrock@yahoo.com,12-11-24,Male,South, gold 
+C00336,kevinmorrison@hotmail.com,22-09-24,FEMALE,East,Silver
+C00337,gregory65@yahoo.com,17-04-25,male,Central,GOLD
+C00338,markramirez@yahoo.com,24-11-24,male,South, gold 
+C00339,brittanygardner@saunders.com,23-12-24,FEMALE,North, gold 
+C00340,,24-03-25,male,Central,bronze
+C00341,cynthiaallen@hotmail.com,03-09-24,femle,Central,Silver
+C00342,mjones@yahoo.com,17-02-25,Other,East,
+C00343,ystephens@yahoo.com,04-04-25,Other,East,Silver
+C00344,mackdiane@jackson-salazar.org,13-03-25,FEMALE,West,GOLD
+C00345,tammy61@gmail.com,13-08-24,FEMALE,West,GOLD
+C00346,williamstone@hotmail.com,,Male,,GOLD
+C00347,dbrooks@chapman.com,09-01-25,Male,East,GOLD
+C00348,robert11@thomas.com,24-01-25,femle,West,GOLD
+C00349,thomas77@yahoo.com,01-08-24,Female,East,GOLD
+C00350,patrickdarin@yahoo.com,14-03-25,FEMALE,North,Silver
+C00351,sarahyang@thompson.info,04-10-24,Female,South, gold 
+C00352,jacobsandoval@yahoo.com,17-07-24,Other,West,GOLD
+C00353,yvargas@bush.com,24-04-25,Other,West, gold 
+C00354,lloydamanda@nguyen-ellis.com,23-03-25,male,Central,Silver
+C00355,candice96@hotmail.com,19-08-24,Female,East,Silver
+C00356,megan92@hotmail.com,06-04-25,Female,South, gold 
+C00357,powerslawrence@gmail.com,01-11-24,Male,Central,Silver
+C00358,nathanielthomas@barnes-taylor.biz,17-12-24,FEMALE,West,GOLD
+C00359,sreid@arias.com,29-08-24,male,West,GOLD
+C00360,megan90@crane-washington.com,18-05-25,Other,East,Silver
+C00361,fortiz@yahoo.com,07-04-25,femle,West,bronze
+C00362,kjackson@gmail.com,11-05-25,Male,East, gold 
+C00363,antonio38@jackson-ellis.info,04-02-25,male,West,GOLD
+C00364,adamsamy@weaver-sherman.info,03-02-25,femle,South,Silver
+C00365,pgarcia@evans.info,16-10-24,Male,West,Silver
+C00366,gonzalesvictoria@gmail.com,25-09-24,FEMALE,North,bronze
+C00367,imartin@gmail.com,17-05-25,FEMALE,North,Silver
+C00368,hudsonamanda@ryan.com,13-02-25,Female,East,Silver
+C00369,taylorkaren@yahoo.com,27-06-25,Other,West,bronze
+C00370,michelle22@thomas.com,27-04-25,Female,East,GOLD
+C00371,othomas@yahoo.com,06-03-25,Other,North,Silver
+,ohayes@gmail.com,09-12-24,Other,Central,Silver
+C00373,shawn75@hotmail.com,06-07-24,male,Central, gold 
+C00374,sreid@horn-flynn.biz,28-09-24,FEMALE,North,GOLD
+C00375,troymorris@yahoo.com,14-11-24,Other,West,Silver
+C00376,,12-07-24,femle,South,bronze
+C00377,scottsmith@harris-barker.com,13-06-25,Female,Central,bronze
+C00378,nancymcdowell@gmail.com,17-03-25,Male,South, gold 
+C00379,christopher20@yahoo.com,05-03-25,male,North,GOLD
+C00380,rubendavis@gmail.com,06-07-24,male,South,GOLD
+C00381,lmiller@stone.com,09-07-24,Male,South, gold 
+C00382,mcneilrobert@gmail.com,07-01-25,Female,East, gold 
+C00383,patrickcross@garcia.com,28-08-24,femle,North,GOLD
+C00384,darlenebyrd@gmail.com,28-01-25,Female,South,bronze
+C00385,scottbowen@goodman.info,04-06-25,male,South, gold 
+C00386,mosleydonald@lawrence.com,19-12-24,Other,East,GOLD
+C00387,johnnewman@gmail.com,05-02-25,FEMALE,North, gold 
+C00388,abbottdominique@yahoo.com,23-09-24,male,North, gold 
+C00389,dphillips@simpson.com,16-01-25,FEMALE,Central, gold 
+C00390,hatfieldsarah@hughes.biz,24-11-24,FEMALE,East,Silver
+C00391,xbest@smith.com,15-10-24,Other,North,bronze
+C00392,livingstonstacy@hunter-fuller.net,29-04-25,femle,West,GOLD
+C00393,fmiles@hotmail.com,30-01-25,FEMALE,North,GOLD
+C00394,christopher18@mccann.net,09-11-24,male,Central, gold 
+C00395,collinssamuel@gmail.com,28-07-24,male,East,GOLD
+C00396,middletondarren@lynch.com,21-08-24,male,North, gold 
+C00397,jacquelinemartin@mills-logan.com,08-09-24,Female,North,Silver
+C00398,karamarks@hotmail.com,15-06-25,Other,Central,bronze
+C00399,rogersruben@brown.com,14-01-25,Male,North,bronze
+C00400,brian92@yahoo.com,05-09-24,male,Central, gold 
+C00401,shannonemily@gmail.com,02-10-24,male,Central,bronze
+C00402,trevinoalexander@ruiz.com,13-09-24,femle,South,Silver
+C00403,pwalker@moon-flores.com,12-02-25,Female,East,Silver
+C00404,shawrachel@gmail.com,30-09-24,male,East,GOLD
+C00405,djones@ayala-collins.com,05-02-25,Other,West,Silver
+C00406,woodkelly@yahoo.com,19-04-25,Female,North,brnze
+C00407,frichardson@oconnor.com,02-09-24,Female,East,gld
+C00408,ijohnson@fields-steele.com,13-11-24,Male,East,bronze
+C00409,usweeney@garcia-moreno.com,16-12-24,femle,Central, gold 
+C00410,kaufmandouglas@yahoo.com,11-08-24,Female,North,Silver
+C00411,phyllismeyer@huang.org,12-08-24,male,East,GOLD
+C00412,kjones@graham.com,27-10-24,male,South,Silver
+C00413,sara65@yahoo.com,28-12-24,FEMALE,Central, gold 
+C00414,charlesharris@hotmail.com,17-08-24,male,South,GOLD
+C00415,martinsteven@martinez-howard.com,28-12-24,FEMALE,South,GOLD
+C00416,hbaker@gmail.com,05-09-24,femle,West,GOLD
+C00417,lewismelissa@gmail.com,10-08-24,femle,Central, gold 
+C00418,randy04@wilkins-thompson.biz,02-06-25,male,North,GOLD
+C00419,codygarcia@gmail.com,22-08-24,FEMALE,South,bronze
+C00420,greertoni@gonzalez.com,29-03-25,male,East,bronze
+C00421,samantha10@gonzalez.info,16-05-25,FEMALE,West, gold 
+C00422,steinmaria@martinez-dunlap.com,09-09-24,Other,North,Silver
+C00423,ycrawford@hotmail.com,18-12-24,Male,East,bronze
+C00424,jason24@griffin-hernandez.org,03-03-25,Other,West,Silver
+C00425,victor87@miller.com,15-12-24,Male,North,bronze
+C00426,crystalpham@mayo.com,08-01-25,male,East, gold 
+C00427,roberta85@yahoo.com,19-10-24,,South,Silver
+C00428,floresjeffery@brown-frey.net,21-11-24,Female,North, gold 
+C00429,craigsandoval@ferguson-moody.com,28-04-25,FEMALE,Central,bronze
+C00430,lkelly@young.com,25-06-25,femle,East,GOLD
+C00431,stacey92@vaughan.info,01-02-25,Female,Central,GOLD
+C00432,tracydavis@gmail.com,24-02-25,femle,North,bronze
+C00433,foxaaron@harris.com,29-07-24,femle,Central,Silver
+C00434,brendastark@mathis.com,28-11-24,Male,West, gold 
+C00435,rogersmarcus@gmail.com,16-04-25,Male,Central,Silver
+C00436,lbanks@hotmail.com,09-02-25,femle,North,GOLD
+C00437,elizabetholsen@yahoo.com,02-11-24,Other,West,Silver
+C00438,gregorysmith@hotmail.com,13-02-25,Other,Central, gold 
+C00439,whitelucas@hotmail.com,29-09-24,Other,North,bronze
+C00440,vtaylor@young.com,10-03-25,Other,North,GOLD
+C00441,sean43@steele.com,,FEMALE,South,bronze
+C00442,williamssamuel@costa-wilkerson.info,13-06-25,Male,North,bronze
+C00443,amy17@hotmail.com,15-03-25,femle,West,Silver
+C00444,shannonlloyd@phillips.com,15-08-24,FEMALE,West, gold 
+C00445,george62@jones.com,21-02-25,male,West,sllver
+C00446,reynoldsdesiree@hotmail.com,16-06-25,Other,West,Silver
+C00447,brianrivera@gmail.com,11-12-24,Female,Central,Silver
+C00448,kenneth10@yahoo.com,13-02-25,femle,South,Silver
+C00449,briansmith@gmail.com,28-10-24,FEMALE,East,Silver
+C00450,collinclark@hotmail.com,27-10-24,femle,East, gold 
+C00451,tanthony@ruiz-jacobson.com,10-08-24,FEMALE,North, gold 
+C00452,nathanjames@gmail.com,26-12-24,Female,West,bronze
+C00453,scott43@elliott-hernandez.com,08-08-24,male,West,Silver
+C00454,larellano@gmail.com,05-02-25,femle,South,GOLD
+C00455,acardenas@mcdaniel.com,06-01-25,Male,South,Silver
+C00456,fostermelissa@gmail.com,16-01-25,male,East,bronze
+C00457,averyshane@stanton.com,22-07-24,femle,South, gold 
+C00458,mcneilryan@hotmail.com,01-09-24,Other,North,GOLD
+C00459,renee11@yahoo.com,07-02-25,femle,North, gold 
+C00460,melissa87@gmail.com,07-05-25,Other,West,GOLD
+C00461,perryeddie@hotmail.com,17-02-25,Female,South,Silver
+C00462,hartcraig@dillon-beard.biz,16-10-24,Other,West, gold 
+C00463,earmstrong@gmail.com,10-09-24,Other,West,bronze
+C00464,mthomas@hotmail.com,01-04-25,Male,Central,GOLD
+C00465,fosternatasha@hotmail.com,06-10-24,FEMALE,Central,GOLD
+C00466,xmccall@morgan.com,22-10-24,Male,North,GOLD
+C00467,comptonjeremy@yahoo.com,20-04-25,Other,North,GOLD
+C00468,joseph69@hotmail.com,09-08-24,femle,North,GOLD
+C00469,alewis@washington.com,22-01-25,Female,North,Silver
+C00470,,17-07-24,femle,North,Silver
+,nancygonzalez@wright.com,27-06-25,Male,Central,Silver
+C00472,joshuacolon@hotmail.com,07-12-24,Male,South,Silver
+C00473,allentracy@thompson-harrell.org,05-02-25,male,North,bronze
+C00474,frank41@yahoo.com,16-07-24,femle,East,bronze
+C00475,martinashley@gmail.com,03-06-25,FEMALE,North,bronze
+C00476,ericaadams@palmer-hancock.com,06-01-25,femle,East,bronze
+C00477,carolynsmith@franklin-hahn.com,17-12-24,Male,West,bronze
+C00478,stephen37@yahoo.com,25-03-25,Female,South,GOLD
+C00479,smithyvonne@yahoo.com,09-02-25,male,South, gold 
+C00480,gabrielle71@yahoo.com,21-10-24,Other,Central,Silver
+C00481,jose43@gmail.com,22-01-25,femle,North,GOLD
+C00482,trujilloleah@powell.com,17-03-25,Male,West,GOLD
+C00483,jordan66@yahoo.com,18-04-25,femle,East,GOLD
+C00484,matthewreeves@nichols.com,19-01-25,male,North, gold 
+C00485,marywalter@gmail.com,28-10-24,male,South,bronze
+C00486,qanderson@stokes.com,17-03-25,Male,East,GOLD
+C00487,michaelgarner@fisher-eaton.com,15-10-24,FEMALE,North, gold 
+C00488,eyork@gmail.com,07-06-25,Male,North,Silver
+C00489,gpreston@dillon.net,29-10-24,Female,West,bronze
+C00490,pittsedward@gmail.com,16-11-24,male,North,Silver
+C00491,tthomas@gmail.com,04-05-25,Other,Central, gold 
+C00492,lcook@walters-smith.com,25-09-24,Male,Central, gold 
+C00493,tracygallagher@anderson.biz,09-12-24,FEMALE,South, gold 
+C00494,creyes@hotmail.com,21-09-24,FEMALE,North,GOLD
+C00495,mcclainkatherine@hotmail.com,18-09-24,male,Central,GOLD
+C00496,simsjohn@wiley.net,19-02-25,femle,Central,GOLD
+C00497,cameronwilliams@yahoo.com,30-12-24,,West,GOLD
+C00498,ibarron@yahoo.com,21-06-25,male,South,Silver
+C00499,karen26@gmail.com,02-10-24,Female,North, gold 
+C00500,jasonjohnson@jackson.com,28-11-24,Male,North, gold 
